@@ -16,7 +16,7 @@
 -->
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ asset('/img/images/logo.ico') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('/img/heritageonord.ico') }}" type="image/x-icon">
     <link rel="apple-touch-icon" href="{{ asset('/img/apple-touch-icon.png') }}">
     <link href="{{ asset('/css/tobii.min.css')}}" rel="stylesheet">
 
@@ -42,12 +42,12 @@
     <link rel="stylesheet" href="{{ asset('/css/theme-blog.css') }}">
     <link rel="stylesheet" href="{{ asset('/css/theme-shop.css') }}">
 
-    <!-- Revolution Slider CSS -->
+   
     <link rel="stylesheet" href="{{ asset('/vendor/rs-plugin/css/settings.css') }}">
     <link rel="stylesheet" href="{{ asset('/vendor/rs-plugin/css/layers.css') }}">
     <link rel="stylesheet" href="{{ asset('/vendor/rs-plugin/css/navigation.css') }}">
 
-    <!-- Current Page CSS -->
+    
     <link rel="stylesheet" href="{{ asset('/vendor/circle-flip-slideshow/css/component.css') }}">
 
     <!-- tablelsaw CSS-->
@@ -59,7 +59,7 @@
     <!-- Skin CSS -->
     <link id="skinCSS" rel="stylesheet" href="{{ asset('/css/skins/default.css') }}">
 
-    <!-- Theme Custom CSS -->
+    <!--Theme Custom CSS -->
     <link rel="stylesheet" href="{{ asset('/css/custom.css') }}">
 
     <!-- Head Libs -->
@@ -69,55 +69,7 @@
     <!-- END LOCAL -->
 
 
-    <!-- Favicon -->
-    <!-- <link rel="shortcut icon" href="{{ secure_asset('/img/images/logo.ico') }}" type="image/x-icon">
-    <link rel="apple-touch-icon" href="{{ secure_asset('/img/apple-touch-icon.png') }}">
-    <link href="{{ secure_asset('/css/tobii.min.css')}}" rel="stylesheet"> -->
-
-    <!-- Mobile Metas -->
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no"> -->
-
-    <!-- Web Fonts  -->
-    <!-- <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&amp;display=swap" rel="stylesheet" type="text/css"> -->
-
-    <!-- Vendor CSS -->
-    <!-- <link rel="stylesheet" href="{{ secure_asset('/vendor/bootstrap/css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/fontawesome-free/css/all.min.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/animate/animate.compat.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/simple-line-icons/css/simple-line-icons.min.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/owl.carousel/assets/owl.carousel.min.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/owl.carousel/assets/owl.theme.default.min.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/magnific-popup/magnific-popup.min.css') }}"> -->
-
-
-    <!-- Theme CSS -->
-    <!-- <link rel="stylesheet" href="{{ secure_asset('/css/theme.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/css/theme-elements.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/css/theme-blog.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/css/theme-shop.css') }}"> -->
-
-    <!-- Revolution Slider CSS -->
-    <!-- <link rel="stylesheet" href="{{ secure_asset('/vendor/rs-plugin/css/settings.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/rs-plugin/css/layers.css') }}">
-    <link rel="stylesheet" href="{{ secure_asset('/vendor/rs-plugin/css/navigation.css') }}"> -->
-
-    <!-- Current Page CSS -->
-    <!-- <link rel="stylesheet" href="{{ secure_asset('/vendor/circle-flip-slideshow/css/component.css') }}"> -->
-
-    <!-- tablelsaw CSS-->
-    <!-- <link href="{{secure_asset('/vendor/tablesaw/dist/tablesaw.css')}}" rel="stylesheet"> -->
-
-    <!--echarts JS-->
-    <!-- <script src="{{secure_asset('/vendor/echarts/echarts-all.js')}}"></script> -->
-
-    <!-- Skin CSS -->
-    <!-- <link id="skinCSS" rel="stylesheet" href="{{ secure_asset('/css/skins/default.css') }}"> -->
-
-    <!-- Theme Custom CSS -->
-    <!-- <link rel="stylesheet" href="{{ secure_asset('/css/custom.css') }}"> -->
-
-    <!-- Head Libs -->
-    <!-- <script src="{{ secure_asset('/vendor/modernizr/modernizr.min.js') }}"></script> -->
+    
 
 </head>
 <body data-plugin-page-transition>
@@ -133,7 +85,7 @@
                         <div class="header-row">
                             <div class="header-logo">
                                 <a href="{{route('acceuil')}}">
-                                    <img alt="Heritage o Nord" width="80" height="80" data-sticky-width="82" data-sticky-height="40" src="{{asset('img/images/logo.png')}}">
+                                    <img alt="Heritage o Nord" width="80" height="65" data-sticky-width="82" data-sticky-height="40" src="{{asset('img/heritageonord.png')}}">
                                 </a>
                             </div>
                         </div>
@@ -145,7 +97,7 @@
                                     <nav class="collapse navbar-collapse">
                                         <ul class="nav nav-pills" id="mainNav">
                                             <li class="dropdown">
-                                                <a class="dropdown-item  active" href=" ">
+                                                <a class="dropdown-item  active" href=" {{route('waitingg')}} ">
                                                     Acceuil
                                                 </a>
                                             </li>
