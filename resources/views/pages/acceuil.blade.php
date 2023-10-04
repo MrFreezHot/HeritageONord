@@ -154,7 +154,7 @@
 									</div>
 								</div>
 								<h5 class="font-weight-semi-bold pt-4">A propos de nous</h5>
-								<p>Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Nulla nunc dui, tristique in semper vel. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. </p>
+								<p>Héritage O Nord est une organisation socio-culturelle, éducative, sportive et promotionnelle œuvrant dans la région du Nord. Notre mission consiste à promouvoir les atouts touristiques, culturels, éducatifs, sportifs et historiques du département Nord, ainsi que des départements voisins tels que le Centre, le Nord-est, l'Artibonite et le Nord-ouest </p>
 							</aside>
 						</div>
 						<div class="col-lg-9">
@@ -166,17 +166,17 @@
 										<article class="post post-medium border-0 pb-0 mb-5">
 											<div class="post-image">
 												<a href="{{route('article')}}">
-													<img src="img/blog/medium/blog-1.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+													<img src="img/article/presse1.webp" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
 												</a>
 											</div>
 
 											<div class="post-content">
 
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="{{route('article')}}">Lorem Ipsum</a></h2>
+												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="{{route('article')}}">Cocktail de Bienvenue</a></h2>
 												<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
 												<div class="post-meta">
-													<span><i class="far fa-user"></i> Par <a href="#">Bob Doe</a> </span>
+													<span><i class="far fa-user"></i> Par <a href="#">Binedinie Jean-Louis</a> </span>
 													<span><i class="far fa-folder"></i> <a href="#">Education</a>, <a href="#">Culture</a> </span>
 													<span><i class="far fa-comments"></i> <a href="#">12 Commentaires</a></span>
 													<span class="d-block mt-2"><a href="{{route('article')}}" class="btn btn-xs btn-light text-1 text-uppercase">Voir plus</a></span>
@@ -189,21 +189,21 @@
 									<div class="col-sm-6">
 										<article class="post post-medium border-0 pb-0 mb-5">
 											<div class="post-image">
-												<a href="{{route('article')}}">
-													<img src="img/blog/medium/blog-2.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+												<a href="{{route('celebration')}}">
+													<img src="img/article/18mai.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
 												</a>
 											</div>
 
 											<div class="post-content">
 
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="{{route('article')}}">Creative Business</a></h2>
+												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="{{route('celebration')}}">Celebration des 220 ans du bicolore</a></h2>
 												<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
 												<div class="post-meta">
-													<span><i class="far fa-user"></i> Par <a href="#">Bob Doe</a> </span>
+													<span><i class="far fa-user"></i> Par <a href="#">Binedinie Jean-Louis</a> </span>
 													<span><i class="far fa-folder"></i> <a href="#">Education</a>, <a href="#">Culture</a> </span>
 													<span><i class="far fa-comments"></i> <a href="#">12 Commentaires</a></span>
-													<span class="d-block mt-2"><a href="blog-post.html" class="btn btn-xs btn-light text-1 text-uppercase">Voir plus</a></span>
+													<span class="d-block mt-2"><a href="{{route('celebration')}}" class="btn btn-xs btn-light text-1 text-uppercase">Voir plus</a></span>
 												</div>
 
 											</div>
@@ -214,17 +214,17 @@
 										<article class="post post-medium border-0 pb-0 mb-5">
 											<div class="post-image">
 												<a href="{{route('article')}}">
-													<img src="img/blog/medium/blog-3.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+													<img src="img/article/fetedelamusique.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
 												</a>
 											</div>
 
 											<div class="post-content">
 
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Unlimited Ways</a></h2>
+												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Fete de la musique</a></h2>
 												<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
 												<div class="post-meta">
-													<span><i class="far fa-user"></i> Par <a href="#">Bob Doe</a> </span>
+													<span><i class="far fa-user"></i> Par <a href="#">Binedinie Jean-Louis</a> </span>
 													<span><i class="far fa-folder"></i> <a href="#">Education</a>, <a href="#">Culture</a> </span>
 													<span><i class="far fa-comments"></i> <a href="#">12 Commentaires</a></span>
 													<span class="d-block mt-2"><a href="blog-post.html" class="btn btn-xs btn-light text-1 text-uppercase">Voir plus</a></span>
@@ -238,13 +238,13 @@
 										<article class="post post-medium border-0 pb-0 mb-5">
 											<div class="post-image">
 												<a href="blog-post.html">
-													<img src="img/blog/medium/blog-4.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+													<img src="img/article/maraton-25.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
 												</a>
 											</div>
 
 											<div class="post-content">
 
-												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Developer Life</a></h2>
+												<h2 class="font-weight-semibold text-5 line-height-6 mt-3 mb-2"><a href="blog-post.html">Marathon, Jenes No ap kouri</a></h2>
 												<p>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
 
 												<div class="post-meta">
@@ -258,7 +258,7 @@
 										</article>
 									</div>
 
-									<div class="col-sm-6">
+									<!-- <div class="col-sm-6">
 										<article class="post post-medium border-0 pb-0 mb-5">
 											<div class="post-image">
 												<a href="blog-post.html">
@@ -354,7 +354,7 @@
 										</article>
 									</div>
 
-								</div>
+								</div> -->
 
 								<div class="row">
 									<div class="col">
