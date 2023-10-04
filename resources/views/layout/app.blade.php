@@ -9,13 +9,14 @@
     <meta name="keywords" content="HTML5 Template">
 	<meta name="description" content="Heritage O Nord Data">
 	<meta name="author" content="Mr FreezHot">
+
     <!-- Favicon -->
-    <-- <link rel="shortcut icon" href="{{ secure_asset('/img/heritageonord.ico') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ secure_asset('/img/heritageonord.ico') }}" type="image/x-icon">
     <link rel="apple-touch-icon" href="{{ secure_asset('/img/apple-touch-icon.png') }}">
     <link href="{{ secure_asset('/css/tobii.min.css')}}" rel="stylesheet">
 
     <!-- Mobile Metas -->
-     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no"> ->
+     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
 
     <!-- Web Fonts  -->
     <link id="googleFonts" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800%7CShadows+Into+Light&amp;display=swap" rel="stylesheet" type="text/css">

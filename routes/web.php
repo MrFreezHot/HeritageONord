@@ -24,3 +24,7 @@ Route::get('/acceuil', function () {
 Route::get('/article', function () {
     return view('/pages/article');
 })->name('article');
+
+Route::get('/celebration', function () {
+    return view('/pages/articles/celebration');
+})->name('celebration');

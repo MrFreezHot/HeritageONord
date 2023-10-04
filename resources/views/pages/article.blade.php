@@ -7,7 +7,7 @@
 						<div class="row">
 							<div class="col-md-12 align-self-left order-1">
 								<ul class="breadcrumb d-block text-center">
-									<li><a href="#">Article</a></li>
+									<li><a href="{{route('acceuil')}}">Article</a></li>
 									<li class="active">Lorem</li>
 								</ul>
 							</div>
@@ -21,9 +21,9 @@
 							<div class="blog-posts single-post">
 
 								<article class="post post-large blog-single-post border-0 m-0 p-0">
-<div class="post-image ms-0">
+<div class="post-image ms-0 center">
 										<a href="blog-post.html">
-											<img src="img/blog/wide/blog-11.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
+											<img src="img/article/presse222.jpg" class="img-fluid img-thumbnail img-thumbnail-no-borders rounded-0" alt="" />
 										</a>
 									</div>
 
@@ -34,20 +34,22 @@
 
 									<div class="post-content ms-0">
 
-										<h2 class="font-weight-semi-bold"><a href="#">Class aptent taciti sociosqu ad litora torquent</a></h2>
+										<h2 class="font-weight-semi-bold"><a href="#">Cocktail de presse</a></h2>
 
 										<div class="post-meta">
-											<span><i class="far fa-user"></i> Par <a href="#">John Doe</a> </span>
-											<span><i class="far fa-folder"></i> <a href="#">Tourisme</a>, <a href="#">Education</a> </span>
+											<span><i class="far fa-user"></i> Par <a href="#">Binedinie Jean-Louis</a> </span>
+											<span><i class="far fa-folder"></i> <a href="#">Innovation</a>, <a href="#">Education</a> </span>
 											<span><i class="far fa-comments"></i> <a href="#">12 Commentaires</a></span>
 										</div>
 
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lectus lacus, rutrum sit amet placerat et, bibendum nec mauris. Duis molestie, purus eget placerat viverra, nisi odio gravida sapien, congue tincidunt nisl ante nec tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sagittis, massa fringilla consequat blandit, mauris ligula porta nisi, non tristique enim sapien vel nisl. Suspendisse vestibulum lobortis dapibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent nec tempus nibh. Donec mollis commodo metus et fringilla. Etiam venenatis, diam id adipiscing convallis, nisi eros lobortis tellus, feugiat adipiscing ante ante sit amet dolor. Vestibulum vehicula scelerisque facilisis. Sed faucibus placerat bibendum. Maecenas sollicitudin commodo justo, quis hendrerit leo consequat ac. Proin sit amet risus sapien, eget interdum dui. Proin justo sapien, varius sit amet hendrerit id, egestas quis mauris.</p>
-										<img src="img/blog/medium/blog-5.jpg" class="img-fluid float-start me-4 mt-2" alt="" />
-										<p>Ut ac elit non mi pharetra dictum nec quis nibh. Pellentesque ut fringilla elit. Aliquam non ipsum id leo eleifend sagittis id a lorem. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam massa mauris, viverra et rhoncus a, feugiat ut sem. Quisque ultricies diam tempus quam molestie vitae sodales dolor sagittis. Praesent commodo sodales purus. Maecenas scelerisque ligula vitae leo adipiscing a facilisis nisl ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
-										<p>Curabitur non erat quam, id volutpat leo. Nullam pretium gravida urna et interdum. Suspendisse in dui tellus. Cras luctus nisl vel risus adipiscing aliquet. Phasellus convallis lorem dui. Quisque hendrerit, lectus ut accumsan gravida, leo tellus porttitor mi, ac mattis eros nunc vel enim. Nulla facilisi. Nam non nulla sed nibh sodales auctor eget non augue. Pellentesque sollicitudin consectetur mauris, eu mattis mi dictum ac. Etiam et sapien eu nisl dapibus fermentum et nec tortor.</p>
-										<p>Curabitur nec nulla lectus, non hendrerit lorem. Quisque lorem risus, porttitor eget fringilla non, vehicula sed tortor. Proin enim quam, vulputate at lobortis quis, condimentum at justo. Phasellus nec nisi justo. Ut luctus sagittis nulla at dapibus. Aliquam ullamcorper commodo elit, quis ornare eros consectetur a. Curabitur nulla dui, fermentum sed dapibus at, adipiscing eget nisi. Aenean iaculis vehicula imperdiet. Donec suscipit leo sed metus vestibulum pulvinar. Phasellus bibendum magna nec tellus fringilla faucibus. Phasellus mollis scelerisque volutpat. Ut sed molestie turpis. Phasellus ultrices suscipit tellus, ac vehicula ligula condimentum et.</p>
-										<p>Aenean metus nibh, molestie at consectetur nec, molestie sed nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec euismod urna. Donec gravida pharetra ipsum, non volutpat ipsum sagittis a. Phasellus ut convallis ipsum. Sed nec dui orci, nec hendrerit massa. Curabitur at risus suscipit massa varius accumsan. Proin eu nisi id velit ultrices viverra nec condimentum magna. Ut porta orci quis nulla aliquam at dictum mi viverra. Maecenas ultricies elit in tortor scelerisque facilisis. Mauris vehicula porttitor lacus, vel pretium est semper non. Ut accumsan rhoncus metus non pharetra. Quisque luctus blandit nisi, id tempus tellus pulvinar eu. Nam ornare laoreet mi a molestie. Donec sodales scelerisque congue. </p>
+										<p>En mars 2023, l'USAID a organisé le concours intitulé « International Science and Engineering Fair » (ISEF) qui a rassemblé plusieurs écoles du monde entier. Parmi les participants, l'école de Saint Joseph, et plus précisément les Frères de l'Instruction Chrétienne du Cap-Haïtien, a fait ses preuves. L'équipe représentant cette institution était composée de Witchy Rosemane, Olivier Rolles Louis Marie et Marc Lesly Maurency, tous élèves en NSIV. Leur projet innovant sur l'énergie solaire, intitulé « Déshydrateur Solaire », a captivé l'attention du jury. Ces jeunes garçons venus de la ville du Cap-Haïtien ont consacré temps, énergie et esprit d'équipe pour réaliser ce projet ambitieux. Leur dévouement acharné leur a valu la 3e place lors du concours national.</p>
+										<img src="img/article/presse3.jpg" class="img-fluid float-start me-4 mt-2" alt="" />
+										<p>Le projet "Déshydrateur Solaire" exploite les rayons du soleil pour déshydrater les fruits, légumes, épices et viandes. Ce procédé de déshydratation permet de conserver les aliments plus longtemps, offrant ainsi aux ménages la possibilité de stocker une plus grande quantité de nourriture. Une solution prometteuse pour améliorer la sécurité alimentaire dans la région.</p>
+										<p>Marc Lesly Maurency, né le 16 septembre 2005 et originaire du Cap-Haïtien, a eu l'opportunité de représenter son école, sa ville et son pays lors de la 2e phase du concours, qui s'est déroulée au Texas, aux États-Unis. Le samedi 13 mai, rempli d'angoisse, Marc s'est rendu à Dallas pour discuter des étapes suivantes du concours. Parmi les 60 pays participants, il a présenté le projet « Déshydrateur solaire » et a décroché une remarquable 3e place dans la catégorie « Food Security » de l'USAID. Son retour triomphant dans sa ville natale, le dimanche 20 mai, a été célébré par un cocktail de bienvenue à Cap Deli, en présence de membres éminents du pouvoir central et de l'autorité locale. Le ministre de l'Éducation nationale et de la Formation professionnelle, Monsieur Nesmy Manigat, le maire adjoint du Cap-Haïtien, Monsieur Patrick Almonor, le directeur de la Chambre de Commerce, Monsieur Marc Georges, ainsi que les représentants des Frères de l'Instruction Chrétienne du Cap-Haïtien, les parents, les camarades de classe, les amis et le personnel de Cap-Deli ont chaleureusement accueilli Marc Lesly.</p>
+										<p>Le ministre de l'Éducation nationale a félicité Marc pour avoir représenté avec fierté son pays et lui a promis une bourse d'excellence. Monsieur Patrick Almonor, de son côté, a exprimé sa gratitude et a annoncé qu'une cérémonie honorifique serait organisée à la mairie du Cap-Haïtien pour rendre hommage à Marc et à son exploit remarquable.</p>
+										<p>Après le cocktail de bienvenue, l'équipe de L'Héritage au Nord a eu l'opportunité privilégiée d'interviewer Marc Lesly. Il a partagé ses pensées en déclarant : « Pour moi, ce concours a été l'un des moments les plus extraordinaires de ma vie. J'ai représenté mon pays, ma ville, mon école et ma famille avec honneur, fierté et enthousiasme, en arborant les couleurs nationales au milieu de 59 autres pays. Je suis ravi d'avoir participé à cette aventure ».</p>
+										<p>Marc Lesly a également adressé un message inspirant à la jeunesse haïtienne, les encourageant à croire en leur capacité et en leur compétence, et à saisir chaque opportunité pour avoir un impact positif sur leur communauté. Il a souligné l'importance de la volonté de créer et d'agir pour un avenir meilleur. Un appel aux cadres du pays a été lancé pour encadrer et soutenir les jeunes prometteurs, afin de construire ensemble un avenir plus brillant pour Haïti.</p>
+										<p>Cet exploit remarquable des jeunes haïtiens témoigne de leur talent, de leur créativité et de leur engagement envers le progrès scientifique et technologique. Ils ont prouvé que malgré les défis, la jeunesse haïtienne est pleine de potentiel et capable de rivaliser avec les meilleurs au niveau international.</p>
 
 										<!-- <div class="post-block mt-5 post-share">
 											<h4 class="mb-3">Share this Post</h4> -->
@@ -65,8 +67,8 @@
 													<img src="img/avatars/avatar.jpg" alt="">
 												</a>
 											</div>
-											<p><strong class="name"><a href="#" class="text-4 pb-2 pt-2 d-block">John Doe</a></strong></p>
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim ornare nisi, vitae mattis nulla ante id dui. </p>
+											<p><strong class="name"><a href="#" class="text-4 pb-2 pt-2 d-block">Binedinie Jean-Louis</a></strong></p>
+											<p>Redactrice </p>
 										</div>
 										<div id="comments" class="post-block mt-5 post-comments">
 											<h4 class="mb-3">Commentaires (3)</h4>
